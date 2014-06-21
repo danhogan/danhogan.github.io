@@ -1,0 +1,43 @@
+body {
+	background-color: #FF7C0D;
+}
+
+i.fa {
+	font-family: FontAwesome;
+	color: darkblue;
+	font-size: 30px;
+}
+
+h1 {
+	color: white;
+	font-family: Play;
+	text-align: center;
+}
+
+.container {
+	height: 200px;
+	width: 200px;
+	margin: auto;
+	position: absolute;
+	top: 0;
+	right: 0;
+	left: 0;
+	bottom: 0;
+}
+
+.links {
+	margin: auto;
+	width: 100px;
+}
+
+.linkedin {
+	float: left;
+}
+
+.github {
+	float: right;
+}
+
+i:hover {
+	color: white;
+}
