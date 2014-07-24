@@ -27,15 +27,12 @@ h1 {
 
 .links {
 	margin: auto;
-	width: 100px;
+	width: 200px;
 }
 
-.linkedin {
-	float: left;
-}
-
-.github {
-	float: right;
+a {
+	margin: 10px;
+	text-decoration: none;
 }
 
 i:hover {
