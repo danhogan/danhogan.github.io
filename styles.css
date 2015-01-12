@@ -5,13 +5,14 @@ body {
 i.fa {
 	font-family: FontAwesome;
 	color: darkblue;
-	font-size: 30px;
+	font-size: 200%;
 }
 
 h1 {
 	color: white;
 	font-family: Play;
 	text-align: center;
+	font-size: 200%;
 }
 
 .container {
@@ -28,6 +29,7 @@ h1 {
 .links {
 	margin: auto;
 	width: 200px;
+	text-align: center;
 }
 
 a {
